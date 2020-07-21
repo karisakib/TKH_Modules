@@ -1,0 +1,49 @@
+Kari Sakib
+
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+The input from the keyboard causes an event to fire allowing it to read by the computer and allow a certain action to proceed. For example, if we have this text file open and I hit the key “f”, I will see the letter “f” on the screen.
+
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+
+Whenever a user uses an external component such as a keyboard or mouse, an event is fired off and based on the event it will produce a certain result. The computer saved it’s known keyboard inputs and knows based on the settings what input should be converted and displayed as the output. For example, if my language setting is on English and I hit a key on my keyboard, that specific key will display the letter in English onto the screen. These input and output events caused by the user allows the experiences to become dynamic.
+
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+Software products are essentially “infinitely reproducible nothings” because one way or a another, that piece of software will be replicated by someone else or another company to make is better, more efficient, and more pleasing to a customer’s eyes while also making it cheaper for the public. As this process continues over time, it begins to become cheaper and cheaper to produce or cheaper for the customers to the point where there comes a free alternative to paid versions.
+
+
+Explain in your own words how code becomes software. (150 words max)
+
+Computers understand things by the use of variables, expressions and functions. With the mix of these, computers can be given instructions in a set to compute something. Each programming language has its own unique set of reserved keywords that are used together to provide a set of instructions. As they are all compiled together, it produces a piece of software that can do or perform a specific task. As different pieces are combined and interact with each other, the final compilation results in a complete software.
+
+Explain “algorithms” in your own words. (150 words max)
+
+Algorithms are either a reusable or single-set piece of code that contains a set of instruction to be executed. Algorithms are pieces of code that solve a specific problem. For example, If we want to fix an issue with a piece of software that is not returns a value to be displayed to the screen. We would have to go back into the code the use the return value from the calculation algorithm and use that to implement a new algorithm for the sole purpose of displaying the value. It is also ideal to make it a universal algorithm so it can be repeated in different places.
+
+Explain the DRY principle. (100 words max)
+
+DRY is an acronym that stands for (Do Not/ Don’t, Repeat, Yourself). The idea behind this is fairly simple. We want to write code that can be reusable because it makes our lives easier and it efficient enough so that we make no serious adjustments every time we use that particular code or function.
+
+In your own words, what is object oriented programming? (100 words max)
+
+Object oriented programing is a way for our code to be organized in our files. Without a set or standardized coding practices, we’d have spaghetti code. The idea behind object oriented programming is to set every significant aspect of the code that will be reusable in a function into an object. Each object has its own properties similar to an object in our world. My bottle for example has it’s own object properties. My bottle has its color property set to olive green.
+
+In your own words explain data and how it relates to code. (100 Words max)
+
+Code in all cases use data either internally declared or outsourced to either manipulate or display the data one way or another. Data are processed and put into databases all the time. When there are required for use, they are called from the database usually referred as reading data from the database. So much data from so many users on social media platforms are just piled up and require it to be cleaned and organized often times. Depending what where we are coding, we either clean and organize it or read and write them on to our application.
+
+What is a framework? (150 words max)
+
+Frameworks are standardized libraries with features and tools that allow us coders to build out our application or software features through cleaner and minimal code through the help and use of our functions provided by the Framework we use. Simple commands and create what would have taken hundreds of lines of code without the use of the Framework.
+
+What is debugging? (150 words max)
+
+Debugging is an integral part of what programming is all about. It’s going back into the code to find that little mistake of not putting a semicolon at the end of a statement which was causing the entire script or program to crash. Trying to figure out what breaks our application or breaks a certain feature in our application is essentially the gist of what debugging is. 
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+
+I have some experience coding but I want to develop my skills into a far superior level. I want to feed my passion of coding by learning more and hoping to get a full-time position at a company or organization coding. I find it fun and I see myself doing this for the rest of my life. It brings me joy when I’m stuff on a problem and I finally find the solution after browsing different answers on Google, StackOveflow, and StackExchange. The simple satisfaction of starting and finishing a project from A to Z brings a type of joy similar to seeing your child grow into something great. Except with our code, there is always room for direct improvement. For me, coding is a way to find therapy. It help me destress and distract me from being down from personal matters and helps me take my mind of things. I find it as therapeutic as the gym sometimes, especially when I finally see the project in its final form. Aside from how it mentally benefits me, I have other reason why I pursue code. Coding is highly in demand the salaries for college graduates with Computer Science degree can sometimes be in the high 70,000 depending on the role and previous experience. I find the money to be a motive as to why I want to pursue a career in the tech field, because with more experience comes more money. I want my wallet to be jealous of my bank, not my bank to be jealous of my wallet.

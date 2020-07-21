@@ -1,0 +1,9 @@
+a. Git is a version control system where developers can utilize it to push updates to their codebase. Github is an online location where there is a repository for the code or codebase. All the code is sent to this repository within Github to make changes to code.
+
+b. The terminal is used widely because it creates a much faster workflow. Utilizing the terminal allows us to create and modify commands allowing us to customize our workflow. This way we can set commands for multiples tasks under one command.
+
+c. Benefit 1: We are able to track changes in our code which is dated back and timestamped.
+
+Benefit 2: Many developers are able to work on the same material and files at the same time. In an event something goes wrong, one developers changes can be reverted.
+
+Benefit 3: We can utilize having different versions of our code or software by having branches within our git. This way we can revert to different code depending on necessity.

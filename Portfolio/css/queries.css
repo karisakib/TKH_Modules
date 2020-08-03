@@ -1,0 +1,63 @@
+/* Large tablets to 1200px: from 1023 to 1200px*/
+@media only screen and (max-width: 1200px) {
+
+    section { margin: 0 40px;}
+
+    h1 { font-size: 150%; }
+    h2 { font-size: 115%; }
+    h3 { font-size: 90%; }
+
+    .btn { font-size: 15px ;}
+
+    .hero-text-box { margin-left: 150px; }
+    
+    .main-nav { margin-top: 30px; }
+
+    .main-nav li:last-child { margin-right: 40px; }
+
+    p { font-size: 65%;
+        line-height: 165%; }
+
+    .section-resume { margin: 0 0; }
+
+}
+
+/* Small tablets to large tablets: from 767 to 1023px*/
+@media only screen and (max-width: 1023px) {
+    
+    section { margin: 0 20px;}
+
+    h1 { font-size: 130%; }
+    h2 { font-size: 105%; }
+    h3 { font-size: 85%; }
+
+    .hero-text-box { margin-left: 300px; }
+
+    p { font-size: 65%;
+        line-height: 165%; }
+
+    .section-skills h3 {
+        font-size: 80%;
+    }
+
+    .section-skills ul li { font-size: 65%;}
+
+}
+
+/* Small phones to small tablets: from 481 to 767px */
+@media only screen and (max-width: 767px) {
+
+    .headshot { display: none; }
+
+    .main-nav li { font-size: 85%; }
+
+    .hero-text-box { margin-left: 420px; }
+
+}
+
+/* Small phones: from 0 to 480px */
+@media only screen and (max-width: 480px) {
+
+
+
+}
